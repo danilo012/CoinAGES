@@ -5,7 +5,7 @@ var player = {
     money: 0,
     clickboost: 0.00,
     pclickboost: 0.00,
-    clickvalue: 0.004,
+    clickvalue: 0.005,
     icon: "../assets/img/1.png",
     purchasedCampaigns: [],
     partners: [],
