@@ -103,7 +103,7 @@ var robot = {
 var person = {
     price: 2,
     unlock: 0,
-    value: 0.003,
+    value: 0.02,
     max: 5,
     amount: 0,
     wakeup: 'manageperson',
