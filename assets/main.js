@@ -58,7 +58,7 @@ var ecoflipperBuySound = new Howl({
   src: ['../assets/audio/ecoflipper.mp3']
 });
 var upgradeBuySound = new Howl({
-  src: ['https://bnthosting.online/listen/highlights_radio_/stream'],
+  src: ['../assets/audio/infinity.wav'],
     volume: 0.2
 });
 var menuSound = new Howl({
