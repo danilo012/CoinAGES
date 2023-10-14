@@ -5,7 +5,7 @@ var player = {
     money: 0,
     clickboost: 0.00,
     pclickboost: 0.00,
-    clickvalue: 0.01,
+    clickvalue: 0.004,
     icon: "../assets/img/1.png",
     purchasedCampaigns: [],
     partners: [],
@@ -93,7 +93,7 @@ var leadingCompanies = ['Zamazon', 'Sicromoft', 'Coinhype', 'Randomize', 'Flippy
 var robot = {
     price: 1,
     unlock: 0,
-    value: 0.004,
+    value: 0.005,
     max: 10,
     amount: 0,
     wakeup: 'managerobot',
@@ -103,7 +103,7 @@ var robot = {
 var person = {
     price: 2,
     unlock: 0,
-    value: 0.002,
+    value: 0.006,
     max: 5,
     amount: 0,
     wakeup: 'manageperson',
