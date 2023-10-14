@@ -93,7 +93,7 @@ var leadingCompanies = ['Zamazon', 'Sicromoft', 'Coinhype', 'Randomize', 'Flippy
 var robot = {
     price: 1,
     unlock: 0,
-    value: 0.009,
+    value: 0.004,
     max: 10,
     amount: 0,
     wakeup: 'managerobot',
