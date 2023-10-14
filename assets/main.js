@@ -1,4 +1,4 @@
-//Main game handler
+ere//Main game handler
 function fadeIn(element) {
 	var op = 0.1;  // initial opacity
 	var timer = setInterval(function () {
@@ -871,9 +871,3 @@ while(marker <= tempSt){
 
 
 
-function resetSave(){
- window.localStorage.clear()
- createAlert('Reset','Resetting your save please wait...',alertImages.cancelX)
- window.location.reload(true);
-
-}
